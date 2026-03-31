@@ -1,0 +1,14 @@
+# Security: Never share your secrets
+.env
+
+# Python: Ignore temporary cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# OS: System-specific junk
+.DS_Store
+Thumbs.db
