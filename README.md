@@ -2,6 +2,8 @@
 
 A high-performance, real-time stock monitoring system built with **Python**, **PostgreSQL**, and **Streamlit**. 
 
+![SentinelStock Dashboard](assets/dashboard.png)
+
 SentinelStock uses a "Smart DB" architecture, utilizing PostgreSQL as a powerful calculation engine (using Window Functions and Views) rather than just a simple storage bucket, ensuring fast and efficient data analysis.
 
 ## 🚀 Features
@@ -46,7 +48,7 @@ Once the containers are running and the ingestor has completed its first fetch, 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Contributions, issues, and feature requests are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
 1. **Fork the Project**
 2. **Create your Feature Branch:** `git checkout -b feature/AmazingFeature`
